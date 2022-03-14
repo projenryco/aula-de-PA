@@ -1,0 +1,33 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 14/03/2022
+// Seção de Declarações 
+var
+nome:caracter
+idade:inteiro
+salario:real
+porcentagem:real
+total:real
+inicio
+// Seção de Comandos 
+escreva("digite seu nome " )
+leia(nome)
+escreva("digite sua idade")
+leia(idade)
+escreva("digite seu salario")
+leia(salario)
+
+escreva ("o seu nome é:",nome)
+escreva ("a sua idade é:",idade)
+escreva ("seu salario é:",salario)
+
+escreva ("digite a % do aumento")
+leia(porcentagem)
+total<- salario * ((porcentagem/100) +1)
+escreva ("valor reajustado é de:",total)
+
+
+
+
+fimalgoritmo
