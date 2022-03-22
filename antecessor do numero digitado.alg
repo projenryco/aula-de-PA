@@ -1,15 +1,15 @@
 algoritmo "semnome"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 21/03/2022
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
  a:inteiro
  b:inteiro
 inicio
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 escreva ("digite o valor de a")
 leia (a)
 b<- a-1
-escreva (b)
+escreva ("o antecessor de a Ã©", b)
 fimalgoritmo
