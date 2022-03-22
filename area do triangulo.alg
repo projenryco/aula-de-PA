@@ -1,18 +1,18 @@
 algoritmo "semnome"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 21/03/2022
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 altura:real
 base:real
 area:real
 inicio
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 escreva("digite a altura")
 leia (altura)
 escreva("digite a base")
 leia (base)
 area<- (altura*base)/2
-escreva (area)
+escreva ("o valor da area Ã©", area)
 fimalgoritmo
