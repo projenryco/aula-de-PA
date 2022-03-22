@@ -1,16 +1,16 @@
 algoritmo "semnome"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 21/03/2022
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 f:real
 c:real
 inicio
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 escreva("digite o valor de f")
 leia (f)
 c<- (5*(f-32))/9
-escreva (c)
+escreva ("o valor de c Ã©", c)
 
 fimalgoritmo
