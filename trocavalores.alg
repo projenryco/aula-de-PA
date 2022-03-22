@@ -1,24 +1,22 @@
 algoritmo "colocar valores"
-// Função :armazena 10 em A e 20 em B
+// FunÃ§Ã£o :armazena 10 em A e 20 em B
 //troca de valores troca de valores de A por B e mostra
 //na tela o final
 // Autor : Enryco Carvalho
 // Data : 07/03/2022
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 a:inteiro
 b:inteiro
 c:inteiro
 inicio
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 a <- 10
 b <- 20
 c <- a
 a <- b
 b <- c
-escreva ("****************************")
-escreva ("*o valor de a é:",a   )
-escreva ("*             *")
-escreva ("*o valor de b é:",b )
-escreva ("****************************")
+escreva ("*o valor de a Ã©:",a   )
+escreva ("*o valor de b Ã©:",b )
+escreva ("o valor de c Ã©:",c)
 fimalgoritmo
