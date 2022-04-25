@@ -1,0 +1,10 @@
+digite o valor da peca e armazene em VALOR
+digite a quantidade de peca e armazene em QUANTIDADE
+faca VT=QUANTIDADE*VALOR
+mostre VT
+
+Teste de mesa 
+
+VALOR          QUANTIDADE     VT
+2                10           20
+2,5              5            12,5
