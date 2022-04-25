@@ -1,0 +1,10 @@
+digite a quantidade maxima e armazene em qtdemaxima
+digite a quantidade minima e armazene em qtdeminima
+faca ESTOQUE MEDIO=(qtdemaxima+ qtdeminima)/2
+mostre estoque medio
+
+Teste de mesa 
+
+qtdeminima         qtdemaxima     estoque medio
+20                     50             35
+15                     200            107,5
