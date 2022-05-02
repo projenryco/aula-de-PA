@@ -1,0 +1,14 @@
+Algoritmo coverter dolar
+
+Digite o valor dsa cotação e armazene em cotação
+Digite a quantia em reais e armazene em valor reais
+Faça Valor em dolar=valor reais/cotação
+mostre valor em reais
+FIM
+
+
+TESTE DE MESA
+
+valor reais          cotacao          valor dolar
+200         		5		   40
+200			4		   50
