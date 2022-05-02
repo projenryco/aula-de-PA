@@ -1,0 +1,15 @@
+algoritmo
+
+Digite o valor de N1 e armazene em N1
+Digite o valor de N2 e armazene em N2
+Digite o valor de N3 e armazene em N3
+Digite o valor de N4 e armazene em N4
+Faça total=(N1*N1)+(N2*N2)+(N3*N3)+(N4*N4)
+mostre total
+
+teste de mesa
+
+
+N1      N2     N3   N4   TOTAL
+2	 4      5    6	   81	
+2	 3	4    5     54
