@@ -1,0 +1,16 @@
+algoritmo
+
+digite o valor das peças e armazene em valor_pecas
+digite a quantidade de peças e amrmazene em quantia
+faça valor total=quantia*valor_peca
+faça comissao=(valor_total/100)*5
+mostre comissao e valor total
+
+
+TESTE DE MESA
+
+
+
+QUANTIA			VALOR_PECA		VALOR_TOTAL		COMISSAO
+100			    5			     500		   25
+200			    5 			      1000		   50
