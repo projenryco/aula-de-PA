@@ -1,0 +1,14 @@
+algoritmo calcular preço
+ 
+entre com o preço custo do carro e armazene em preco_custo
+faça imposto=(preco_custo/100)*45
+faça distribuiçao=((imposto*preco_custo)/100)*25
+faça valor_total= imposto+preco_custo+distribuicao
+mostre valor_total
+
+
+teste de mesa 
+
+
+preco_custo		imposto		distribuicao		valor_total
+25000			11250		10150			46400
