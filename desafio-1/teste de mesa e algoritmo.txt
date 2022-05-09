@@ -1,0 +1,16 @@
+algoritmo desafio 1
+
+escreva a quantidade de horas e armazene em horas
+escreva a quantidade de minutos e armazene em minutos
+faça N1=minutos/60
+faça total= horaas + N1
+mostre total
+
+
+teste de mesa
+
+
+horas		minutos		N1		total
+4		23		0.38		4.38
+5		40		0.6		4.6
+
