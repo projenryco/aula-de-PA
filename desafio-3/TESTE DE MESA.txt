@@ -1,0 +1,14 @@
+algoritmo 
+escreva quanto o carro percorre por litro e armazene em consumo
+escreva qual o preço da gasolina e armazene em preco
+escreva quantos km vai percorrer e armazene em km
+faça preco_total=(km/consumo)*preco
+faça preco_total2=preco_total*2
+
+
+TESTE DE MESA 
+
+preco		km		consumo		total
+4,50		450		10		202
+
+
