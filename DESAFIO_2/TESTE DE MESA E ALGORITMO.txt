@@ -1,0 +1,16 @@
+algoritmo
+
+escreva quantas horas foram trabalhadas e armazene em hora
+escreva quantas minutos foram trabalhadas e armazene em minuto
+escreva quantos recebe por hora trabalhada e armazene em valor_hora
+faça n1=minutos/60n
+faça n2=hora+n1
+FAÇA N3=valor_hora*n2
+faça total=total=((n3/100)*70)+n3
+
+
+TESTE DE MESA
+
+
+HORA		MINUTO		VALOR_HORA		N1		N2		N3		TOTAL
+15		45		25			75		15.75		393,75		669,37	
