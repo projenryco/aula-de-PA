@@ -1,0 +1,17 @@
+algoritmo
+
+escreva quantas horas foram gastas para percorrer o caminho e amazene em hora
+escreva quantos minutos foram gastos para percorrer o caminho e amazene em minuto
+escreva qual a distacia que foi percorrida e amazene em percorrido
+faça tempo:(minuto/60)+hora
+faça km_hora:percorrido/tempo
+mostre km_hora
+
+
+
+teste de mesa
+
+
+
+hora		minuto		tempo		percorrido		km_hora
+1		13		1,21		150			 123
